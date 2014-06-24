@@ -6,3 +6,4 @@ http.createServer(function (req, res) {
 }).listen(process.env.port);
 
 //Mathias var her!
+//Dette er enda en kommentar.
